@@ -1,0 +1,16 @@
+C:\Users\geova\documents\DIO\primeiro-projeto\bin\Debug\net5.0\primeiro-projeto.exe
+C:\Users\geova\documents\DIO\primeiro-projeto\bin\Debug\net5.0\primeiro-projeto.deps.json
+C:\Users\geova\documents\DIO\primeiro-projeto\bin\Debug\net5.0\primeiro-projeto.runtimeconfig.json
+C:\Users\geova\documents\DIO\primeiro-projeto\bin\Debug\net5.0\primeiro-projeto.runtimeconfig.dev.json
+C:\Users\geova\documents\DIO\primeiro-projeto\bin\Debug\net5.0\primeiro-projeto.dll
+C:\Users\geova\documents\DIO\primeiro-projeto\bin\Debug\net5.0\ref\primeiro-projeto.dll
+C:\Users\geova\documents\DIO\primeiro-projeto\bin\Debug\net5.0\primeiro-projeto.pdb
+C:\Users\geova\documents\DIO\primeiro-projeto\obj\Debug\net5.0\primeiro-projeto.csprojAssemblyReference.cache
+C:\Users\geova\documents\DIO\primeiro-projeto\obj\Debug\net5.0\primeiro-projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geova\documents\DIO\primeiro-projeto\obj\Debug\net5.0\primeiro-projeto.AssemblyInfoInputs.cache
+C:\Users\geova\documents\DIO\primeiro-projeto\obj\Debug\net5.0\primeiro-projeto.AssemblyInfo.cs
+C:\Users\geova\documents\DIO\primeiro-projeto\obj\Debug\net5.0\primeiro-projeto.csproj.CoreCompileInputs.cache
+C:\Users\geova\documents\DIO\primeiro-projeto\obj\Debug\net5.0\primeiro-projeto.dll
+C:\Users\geova\documents\DIO\primeiro-projeto\obj\Debug\net5.0\ref\primeiro-projeto.dll
+C:\Users\geova\documents\DIO\primeiro-projeto\obj\Debug\net5.0\primeiro-projeto.pdb
+C:\Users\geova\documents\DIO\primeiro-projeto\obj\Debug\net5.0\primeiro-projeto.genruntimeconfig.cache
